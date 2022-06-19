@@ -35,7 +35,7 @@ public class Login extends JFrame{
 	JButton btDangNhap;
 	// Tao doi tuong de ket noi voi csdl	
 	Connection conn;
-	// Tao doi tuong lop statement de thuc hien cac cau lenh
+	// Tao doi tuong lop statement de thuc hien cac cau lenh789
 	java.sql.Statement st;
 	// Ham ket noi sql Server
 	public void KetNoidb() {
